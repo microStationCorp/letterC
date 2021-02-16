@@ -6,5 +6,9 @@
   "author": "sherlock",
   "license": "MIT",
   "private": false,
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "url": "https://github.com/microStationCorp/letterC.git",
+    "type": "git"
+  }
 }
