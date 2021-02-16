@@ -1,0 +1,10 @@
+{
+  "name": "letterc",
+  "version": "1.0.3",
+  "description": "letter Count",
+  "main": "index.js",
+  "author": "sherlock",
+  "license": "MIT",
+  "private": false,
+  "type": "module"
+}
